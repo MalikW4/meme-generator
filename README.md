@@ -5,6 +5,7 @@
 - CSS / Flexbox
 - React.js
 - Node.js
+- CSS Grid
 
 ## What I Learned
 - How to use Hooks 
