@@ -8,7 +8,7 @@
 
 ## What I Learned
 - How to use Hooks 
--- State  
+1. State  
 ```
 const [meme, setMeme] = React.useState({
         topText: "",
@@ -16,7 +16,7 @@ const [meme, setMeme] = React.useState({
         randomImage: "http://i.imgflip.com/1bij.jpg"
 });
 ```
--- Side Effects & Fetch
+2. Side Effects & Fetch
 ```
 const [allMemes, setAllMemes] = React.useState([])
 
