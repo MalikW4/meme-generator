@@ -1,5 +1,9 @@
 # Scrimba Meme Generator project with React & NodeJs
 
+## Screenshot
+![memegenerator-screenshot](https://user-images.githubusercontent.com/109000703/191742981-82cde79e-5b62-42e7-99a7-4f3b65447900.png)
+
+
 ## Built With
 - HTML5
 - CSS / Flexbox
